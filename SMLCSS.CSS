@@ -1,0 +1,20 @@
+body{
+text-align:center
+
+}
+.menu{
+position:fixed;
+background:white;
+width: 100%;
+margin-top:0px;
+top:0px;
+z-index:10;
+}
+.links{
+display:33px;
+padding-right:25px;
+font-family:fantasy;
+font-size: 20px;
+text-decoration:none ;
+
+}
